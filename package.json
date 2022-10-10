@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project has moved maintainers and is no longer developed here. The up to date template can be found [here](https://github.com/rennemannd/MERN-Template).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SewGit/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SewGit/portfolio/issues"
+  },
+  "homepage": "https://github.com/SewGit/portfolio#readme"
 }
